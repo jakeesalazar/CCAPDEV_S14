@@ -3,3 +3,4 @@
 # Charity app
 ## Team Members:
 Cuison, Enrico Luis M.
+Salazr, Jacob Israel R.
